@@ -3,4 +3,9 @@ body {
     padding: 0px;
     position: fixed;
     background: black;
+    overflow: hidden;
+}
+
+canvas {
+    display: block;
 }
